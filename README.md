@@ -2,7 +2,7 @@ CTM Python3 Example
 -------------------
 
 ## Installation
-```json
+```bash
 git clone https://github.com/calltracking/ctm-python3-example.git
 cd ctm-python3-example
 python3 -m virtualenv env
